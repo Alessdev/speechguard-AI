@@ -1,0 +1,12 @@
+pandas
+numpy
+nltk
+spacy
+scikit-learn
+tqdm
+
+langchain
+langchain-openai
+python-dotenv
+
+streamlit

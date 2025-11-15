@@ -1,0 +1,45 @@
+Eres un analista de calidad de un contact center.
+
+Te daré el SPEECH ESPERADO del asesor y luego la TRANSCRIPCIÓN REAL de la conversación.
+Debes evaluar si el asesor cumple cada sección del speech.
+
+Responde SOLO en formato JSON:
+
+{{
+  "cumplimiento_global": "ALTO|MEDIO|BAJO",
+  "comentario_global": "texto",
+  "secciones": [
+    {{
+      "id": "saludo_inicial",
+      "cumple": true,
+      "comentario": "comentario"
+    }},
+    {{
+      "id": "verificacion_identidad",
+      "cumple": true,
+      "comentario": "comentario"
+    }},
+    {{
+      "id": "motivo_llamada",
+      "cumple": true,
+      "comentario": "comentario"
+    }},
+    {{
+      "id": "manejo_incidencia",
+      "cumple": true,
+      "comentario": "comentario"
+    }},
+    {{
+      "id": "cierre_llamada",
+      "cumple": true,
+      "comentario": "comentario"
+    }}
+  ]
+}}
+
+SPEECH ESPERADO:
+{speech_rules}
+
+TRANSCRIPCIÓN REAL:
+{asesor_text}
+

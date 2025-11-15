@@ -1,0 +1,19 @@
+# Entorno virtual
+venv/
+
+# Archivos sensibles
+.env
+
+# Archivos generados
+__pycache__/
+*.log
+
+# Data local
+data/raw/
+data/processed/
+data/output/
+
+# Archivos temporales
+*.tmp
+*.sqlite
+
