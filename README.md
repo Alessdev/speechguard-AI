@@ -18,9 +18,9 @@ Este pipeline funciona **100% local**, sin necesidad de usar APIs pagadas ni ser
 
 ---
 
-## 🚀 Características principales
+##  Características principales
 
-### 🔍 1. Evaluación del Speech del Asesor
+###  1. Evaluación del Speech del Asesor
 Comparación automática entre:
 
 - *Speech esperado*
@@ -32,7 +32,7 @@ Produce:
 - Comentarios cualitativos
 - Evaluación global (ALTO / MEDIO / BAJO)
 
-### 🧠 2. Análisis Semántico de la Conversación
+###  2. Análisis Semántico de la Conversación
 El modelo genera:
 
 - Resumen
@@ -42,7 +42,7 @@ El modelo genera:
 - Frases clave
 - Sugerencias de mejora
 
-### 📊 3. Pipeline Automatizado
+###  3. Pipeline Automatizado
 Incluye:
 
 - Limpieza y normalización de texto
@@ -50,6 +50,7 @@ Incluye:
 - Análisis con modelos LLM locales
 - Exportación de resultados a Excel/CSV
 
-### 🧱 4. Arquitectura Profesional
+###  4. Arquitectura Profesional
 El proyecto está organizado de forma modular:
+
 
