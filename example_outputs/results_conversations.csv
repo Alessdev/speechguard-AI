@@ -1,0 +1,21 @@
+﻿conversation_id,full_conversation,asesor_text,cliente_text,speech_eval_raw,cumplimiento_global,comentario_global,semantics_raw,resumen,intencion_principal_cliente,sentimiento_cliente,temas_principales,frases_clave_cliente,oportunidades_mejora_asesor
+1,"Buen día, habla Carlos de Soporte XYZ, ¿con quién tengo el gusto?
+Con Laura Gómez.
+Gracias Laura, ¿podrías confirmarme tu número de documento por favor?
+Sí, es 12345678.
+Perfecto, el motivo de mi llamada es validar tu experiencia con nuestro servicio de internet.
+La verdad es que últimamente se ha estado cayendo mucho.
+Lamento lo ocurrido, voy a revisar qué está pasando y ayudarte con una solución.
+Gracias, porque sí ha sido incómodo.
+Listo, ya realicé un ajuste y deberías notar mejoras en las próximas horas. ¿Hay algo más en lo que pueda ayudarte?
+No, gracias.
+Perfecto Laura, gracias por tu tiempo, que tengas un excelente día.","Buen día, habla Carlos de Soporte XYZ, ¿con quién tengo el gusto?
+Gracias Laura, ¿podrías confirmarme tu número de documento por favor?
+Perfecto, el motivo de mi llamada es validar tu experiencia con nuestro servicio de internet.
+Lamento lo ocurrido, voy a revisar qué está pasando y ayudarte con una solución.
+Listo, ya realicé un ajuste y deberías notar mejoras en las próximas horas. ¿Hay algo más en lo que pueda ayudarte?
+Perfecto Laura, gracias por tu tiempo, que tengas un excelente día.","Con Laura Gómez.
+Sí, es 12345678.
+La verdad es que últimamente se ha estado cayendo mucho.
+Gracias, porque sí ha sido incómodo.
+No, gracias.","{""cumplimiento_global"": ""DESCONOCIDO"", ""comentario_global"": ""No se pudo interpretar el JSON devuelto."", ""secciones"": []}",DESCONOCIDO,No se pudo interpretar el JSON devuelto.,"{""resumen"": ""Carlos de Soporte XYZ llama a Laura Gómez para confirmar su número y discutir problemas con el servicio de internet."", ""intencion_principal_cliente"": ""Validar experiencia del cliente con el servicio de internet"", ""sentimiento_cliente"": ""NEGATIVO"", ""temas_principales"": [""servicio de internet"", ""problemas técnноси""], ""frases_clave_cliente"": [""el motivo es validar mi experiencia con nuestro servicio de internet"", ""La verdad es que últimamente se ha estado cayendo mucho""], ""oportunidades_mejora_asesor"": [""Realicé un ajuste para mejorar el rendimiento del cliente"", ""Ofrecer seguimiento y apoyo adicional después del ajuste""]}",Carlos de Soporte XYZ llama a Laura Gómez para confirmar su número y discutir problemas con el servicio de internet.,Validar experiencia del cliente con el servicio de internet,NEGATIVO,"servicio de internet, problemas técnноси",el motivo es validar mi experiencia con nuestro servicio de internet | La verdad es que últimamente se ha estado cayendo mucho,Realicé un ajuste para mejorar el rendimiento del cliente | Ofrecer seguimiento y apoyo adicional después del ajuste
